@@ -6,11 +6,8 @@ plugins {
 
 repositories {
     mavenCentral()
-    //mavenLocal()
-    maven { url = "E:\\JAVA\\Workspace\\Gradle\\utils-1.3.5\\utils\\build\\publishing-repository\\"
-    }
+    mavenLocal()
 }
-
 
 dependencies {
     implementation project(':core')
