@@ -16,7 +16,6 @@ bin/
 build/
 .gradle
 .gradletasknamecache
-.gitattributes
 gradle-app.setting
 !gradle-wrapper.jar
 
