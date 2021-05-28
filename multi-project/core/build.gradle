@@ -1,14 +1,8 @@
-
 plugins {
     id 'java'
 }
 
 group 'by.epam.core'
-
-repositories {
-    mavenCentral()
-    mavenLocal()
-}
 
 dependencies {
     implementation 'by.epam.util:utils:1.3.5'
